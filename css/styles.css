@@ -679,11 +679,15 @@ background-color: var(--link-hover,#404BBF);
 }
 
 .modal-close-btn{
+    width: 24px;
+    height: 24px;
     background: #E7E9FC;
     border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 50%;
     display: block;
     margin-left: auto;
+    display: block;
+        
 }
 .modal-close{
     width: 8px;
